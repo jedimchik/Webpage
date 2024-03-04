@@ -55,8 +55,9 @@ a {
 }
 
 a:hover {
-  color: var(--color-light-gray);
-  /* font-size: 16px; */
+  color: yellow;
+/*     var(--color-light-gray); */
+  font-size: 16px;
 }
 
 a,
