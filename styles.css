@@ -55,8 +55,9 @@ a {
 }
 
 a:hover {
-  color: var(--color-light-gray);
-  /* font-size: 16px; */
+  color: yellow;
+  /*     var(--color-light-gray); */
+  font-size: 16px;
 }
 
 a,
@@ -93,8 +94,13 @@ h6 {
   /* font-family: "Heebo"; */
 }
 
+.header-book-button:hover {
+  background-color: yellow;
+}
+
 .button:hover {
-  background-color: var(--color-light-gray);
+  background-color: yellow;
+  /* var(--color-light-gray); */
 }
 
 .visually-hidden {
