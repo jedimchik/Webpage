@@ -99,7 +99,8 @@ h6 {
 }
 
 .button:hover {
-  background-color: var(--color-light-gray);
+  background-color: yellow;
+  /* var(--color-light-gray); */
 }
 
 .visually-hidden {
