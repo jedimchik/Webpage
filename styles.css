@@ -60,15 +60,14 @@ a:hover {
   font-size: 16px;
 }
 
-a,
+"C:\Users\jedim\Documents\Front End Course\HTML + CSS\Верстка 3 (фитнес)" a,
 button,
 textarea,
 input,
 svg * {
   transition-duration: 0.2s;
 }
-
-h1,
+styles.css h1,
 h2,
 h3,
 h4,
